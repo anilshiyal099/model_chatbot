@@ -1,0 +1,8 @@
+requests
+python-dotenv
+langdetect
+pydub
+soundfile
+speechrecognition
+simpleaudio
+typing-extensions
